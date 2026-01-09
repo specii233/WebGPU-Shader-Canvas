@@ -5,13 +5,7 @@ A simple canvas effect with WebGPU shader
 
 ---
 
-## 一、在线试玩（零安装）
-[https://specii233.github.io/WebGPU-Shader-Canvas/](https://specii233.github.io/WebGPU-Shader-Canvas/)  
-（Chrome 123+ / Edge 116+ / Firefox Nightly 已测）
-
----
-
-## 二、一键本地跑
+## 一键本地跑
 ```bash
 git clone https://github.com/specii233/WebGPU-Shader-Canvas.git
 cd WebGPU-Shader-Canvas
